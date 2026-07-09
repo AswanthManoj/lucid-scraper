@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "dotenv>=0.9.9",
     "httpx>=0.28.1",
+    "numpy>=2.5.1",
     "openai>=2.44.0",
     "pillow>=12.3.0",
     "resvg-py>=0.3.3",
