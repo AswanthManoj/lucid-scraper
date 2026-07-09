@@ -9,7 +9,6 @@ dependencies = [
     "httpx>=0.28.1",
     "openai>=2.44.0",
     "pillow>=12.3.0",
-    "pocket-tts>=2.1.0",
     "resvg-py>=0.3.3",
     "tenacity>=9.1.4",
     "tqdm>=4.68.4",
